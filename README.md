@@ -25,7 +25,6 @@ Then we used some scripts, written in python.
 5. `gtasa_save_diff.py` — comparison tool
    A first-draft "compare two saves" script. Lines up two files byte-by-byte and reports where they differ.
 
-I have failed to take screenshot of the exact session where you can see the "tags block". Here are the two readable screenshots in the binary code which tells us the current status of the game and about the character models such as "Sweet", "Man 1, 2, 3,..... " ( Male models ). Also, the two scripts used in this process.
 
 This falls into "file format reverse engineering or game save/data reversing" category.
 
